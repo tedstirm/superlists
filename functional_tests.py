@@ -1,8 +1,9 @@
 from selenium import webdriver
 import unittest
 
+# Our initial test class
 class NewVisitorTest(unittest.TestCase):
-
+	
 	def setUp(self):
 		self.browser = webdriver.Firefox()
 		self.browser.implicitly_wait(3)

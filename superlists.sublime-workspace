@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"input",
+				"inputbox	statement"
+			],
+			[
+				"keys",
+				"Keys"
+			],
+			[
+				"asser",
+				"assertEqual	function"
+			],
+			[
 				"uni",
 				"unittest"
 			]
@@ -12,7 +24,7 @@
 	"buffers":
 	[
 	],
-	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system": "",
 	"build_system_choices":
 	[
 		[
@@ -35,10 +47,26 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 392.0,
-		"last_filter": "pack",
+		"height": 138.0,
+		"last_filter": "git commit",
 		"selected_items":
 		[
+			[
+				"git commit",
+				"Git: Amend Commit"
+			],
+			[
+				"git diff",
+				"Git: Diff All Files"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git add ",
+				"Git: Add..."
+			],
 			[
 				"pack",
 				"Package Control: Install Package"
@@ -62,10 +90,6 @@
 			[
 				"git statu",
 				"Git: Status"
-			],
-			[
-				"git diff",
-				"Git: Diff Current File"
 			],
 			[
 				"gits",
@@ -117,6 +141,7 @@
 	],
 	"file_history":
 	[
+		"/home/ted/Dev/TDD_Python/superlists/superlists/settings.py",
 		"/home/ted/Dev/TDD_Python/superlists/functional_tests.py",
 		"/home/ted/Dev/TDD_Python/superlists/superlists.sublime-project",
 		"/home/ted/.config/sublime-text-3/Packages/User/python3.sublime-build",
@@ -129,7 +154,7 @@
 	],
 	"find":
 	{
-		"height": 0.0
+		"height": 25.0
 	},
 	"find_in_files":
 	{
@@ -143,6 +168,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"html"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -167,11 +193,11 @@
 	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 25.0
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 33.0
 	},
 	"layout":
 	{
@@ -212,7 +238,7 @@
 	"project": "superlists.sublime-project",
 	"replace":
 	{
-		"height": 0.0
+		"height": 46.0
 	},
 	"save_all_on_build": true,
 	"select_file":
